@@ -1,4 +1,4 @@
-order_id,customer,amount,order_date
-1001,Anna,49.99,2025-01-02
-1002,Bernd,19.99,2025-01-03
-1003,Clara,29.50,2025-01-05
+order_id;customer;amount;order_date
+1001;Anna;49.99;02.01.2025
+1002;Bernd;19.99;03.01.2025
+1003;Clara;29.50;05.01.2025
