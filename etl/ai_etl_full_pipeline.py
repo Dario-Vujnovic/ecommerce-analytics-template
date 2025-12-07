@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 
 # --------------------------
-# 1. KI SCHEMA ERKENNUNG
+# 1. KI SCHEMA ERKENNUNG CSV/EXCEL
 # --------------------------
 def get_ai_schema(df_sample):
     prompt = f"""
