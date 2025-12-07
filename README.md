@@ -30,6 +30,8 @@ automatisch bereinigt, in einer Cloud-Datenbank gespeichert und über ein intera
 
 ## 📁 Projektstruktur
 
+set
+
 datauebung/
 │
 ├── data/ # CSV- oder Excel-Dateien (Rohdaten)
