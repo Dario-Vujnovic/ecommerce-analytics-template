@@ -28,7 +28,7 @@ automatisch bereinigt, in einer Cloud-Datenbank gespeichert und über ein intera
 - SSL-gesicherte Verbindung
 - **Metabase (lokal über JAR gestartet)**
 
-## 📁 Projektstruktur Übersicht
+## 📁 Projektstruktur
 
 
 datauebung/
